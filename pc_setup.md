@@ -5,7 +5,7 @@ Follow these instructions to setup your PC for the hackathon.
 2. Open your Documents folder and open a windows terminal in that folder.
 3. Run the following command to create the Quanser directory and copy the contents of this repo in there.
     ```
-    git clone https://github.com/tkics/UWAFT-Software-Challenge UWAFT Software Challenge
+    git clone https://github.com/tkics/UWAFT-Software-Challenge UWAFT-Hackathon
     ```
 ## MATLAB
 Install [MATLAB R2025b](https://www.mathworks.com/downloads/). When you install, the installer ask you to select products. Please select:
