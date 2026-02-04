@@ -12,10 +12,7 @@ Once you have finished installing, download Quanser Interactive Labs through the
 
 <img src="images/addOnExplorer.png" width="300">
 
-    ```
-    Quanser Interactive Labs for MATLAB
-    ```
-    
+    Quanser Interactive Labs for MATLAB    
 <img src="images/qlabsAddOn.png" width="400">
 
 3. Download [Git](https://git-scm.com/downloads)
