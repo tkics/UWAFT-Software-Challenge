@@ -17,10 +17,10 @@ Install [MATLAB R2025b](https://www.mathworks.com/downloads/). When you install,
 
 Once you have finished installing, download Quanser Interactive Labs through the MATLAB Add On Explorer
 
-<img src="images/addOnExplorer.png" width="300">
+<img src="main/images/addOnExplorer.png" width="300">
 
     Quanser Interactive Labs for MATLAB    
-<img src="images/qlabsAddOn.png" width="400">
+<img src="main/images/qlabsAddOn.png" width="400">
 
 ## QLabs
 This will be the virtual enviornment used for simulating your car.
