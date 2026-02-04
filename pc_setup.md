@@ -16,7 +16,7 @@ Once you have finished installing, download Quanser Interactive Labs through the
 <img src="images/qlabsAddOn.png" width="400">
 
 ## Git
-1. Install [Git](https://git-scm.com/downloads) in your system.
+1. Install [Git](https://git-scm.com/downloads) in your system. You can use all the default options.
 2. Open your Documents folder and open a windows terminal in that folder.
 3. Run the following command to create the Quanser directory and copy the contents of this repo in there.
     ```
