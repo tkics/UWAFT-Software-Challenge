@@ -15,5 +15,10 @@ Once you have finished installing, download Quanser Interactive Labs through the
     Quanser Interactive Labs for MATLAB    
 <img src="images/qlabsAddOn.png" width="400">
 
-3. Download [Git](https://git-scm.com/downloads)
-4. 
+## Git
+1. Install [Git](https://git-scm.com/downloads) in your system.
+2. Open your Documents folder and open a windows terminal in that folder.
+3. Run the following command to create the Quanser directory and copy the contents of this repo in there.
+    ```
+    git clone https://github.com/tkics/UWAFT-Software-Challenge UWAFT Software Challenge
+    ```
