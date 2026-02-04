@@ -21,5 +21,6 @@ Once you have finished installing, download Quanser Interactive Labs through the
 
     Quanser Interactive Labs for MATLAB    
 <img src="images/qlabsAddOn.png" width="400">
+
 ## QLabs
 This will be the virtual enviornment used for simulating your car.
