@@ -8,7 +8,7 @@ Install [MATLAB R2025b](https://www.mathworks.com/downloads/). When you install,
 * Simulink Coder
 * Control System Toolbox
 
-Once you have finsihed installing, download Quanser Interactive Labs through the MATLAB Add On Explorer
+Once you have finished installing, download Quanser Interactive Labs through the MATLAB Add On Explorer
 
     <img src="images/addOnExplorer.png" width="300">
 
