@@ -10,13 +10,13 @@ Install [MATLAB R2025b](https://www.mathworks.com/downloads/). When you install,
 
 Once you have finished installing, download Quanser Interactive Labs through the MATLAB Add On Explorer
 
-    <img src="images/addOnExplorer.png" width="300">
+<img src="images/addOnExplorer.png" width="300">
 
     ```
     Quanser Interactive Labs for MATLAB
     ```
-
-    <img src="images/qlabsAddOn.png" width="400">
+    
+<img src="images/qlabsAddOn.png" width="400">
 
 3. Download [Git](https://git-scm.com/downloads)
 4. 
