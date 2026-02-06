@@ -210,8 +210,8 @@ rem Setting up environment variables for both Windows and MATLAB
 echo.
 echo [93mSetting up Environment Variables[0m
 REM Define paths
-set "QAL_DIR=%USERPROFILE%\Documents\Quanser"
-set "RTMODELS_DIR=%USERPROFILE%\Documents\Quanser\0_libraries\resources\rt_models"
+set "QAL_DIR=%USERPROFILE%\Documents\UWAFT-Hackathon"
+set "RTMODELS_DIR=%USERPROFILE%\Documents\UWAFT-Hackathon\0_libraries\resources\rt_models"
 echo.
 REM Set QAL_DIR
 echo [93mSetting QAL_DIR to: %QAL_DIR%[0m
@@ -225,7 +225,7 @@ echo.
 REM Define MATLAB base path and versions to check
 set "MATLAB_BASE=C:\Program Files\MATLAB"
 set "MATLAB_VERSIONS=R2025b R2025a R2024b R2024a R2023b R2023a R2022b R2022a R2021b R2021a R2020b R2020a R2019b R2019a"
-set "USER_LIB_PATH=%USERPROFILE%\Documents\Quanser\0_libraries\matlab"
+set "USER_LIB_PATH=%USERPROFILE%\Documents\UWAFT-Hackathon\0_libraries\matlab"
 setlocal enabledelayedexpansion
 REM Initialize a flag to track if any MATLAB versions are found
 set "VERSIONS="
