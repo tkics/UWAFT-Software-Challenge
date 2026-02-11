@@ -7,5 +7,7 @@ In this Hackathon you will be playing the role of an autonmous taxi service. You
 <img src="/images/map.png" width="500">
 
 Level 1 (+2 Points): The provided file you will be working off of comes with a predefined path that allows the car to drive around the outer track. To complete level 1, you **do not have to obey traffic signals**. Just stop within a radius of **X** at the coordinates provided for **3 seconds** for this level to be completed.
+
 Level 2 (+8 points): You will have to define a new path for the car shown in blue while also using object detection to obey traffic signals including the stop sign and traffic light.
+
 Level 3 (+16 points): The car wil have t navigate through a more difficult path and also avoid hitting pedestrians at the crosswalk while still stopping for the stop sign and traffic light.
