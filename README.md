@@ -12,7 +12,7 @@ Level 2 (+6 points): You will have to define a new path for the car shown in blu
 
 Level 3 (+12 points): Your car will have to navigate through a more difficult path and also avoid hitting pedestrians at the crosswalk while still stopping for the stop sign and traffic light.
 
-# Presentation
+## Presentation
 At the end of the hackathon you will have to present your work to a panel of judges. Your presentation should be about *8 mins* and it should include:
 1. Brief introduction
 2. Video of your car's performance for your chosen level
