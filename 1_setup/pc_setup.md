@@ -15,12 +15,17 @@ Install [MATLAB R2025b](https://www.mathworks.com/downloads/). When you install,
 * Simulink Coder
 * Control System Toolbox
 
-Once you have finished installing, download Quanser Interactive Labs through the MATLAB Add On Explorer
+## QLabs 
+1. Once you have finished installing MATLAB, download Quanser Interactive Labs through the MATLAB Add On Explorer
 
 <img src="../images/addOnExplorer.png" width="300">
 
+
     Quanser Interactive Labs for MATLAB    
 <img src="../images/qlabsAddOn.png" width="400">
+
+2. Once the add-on is installed, type ```QLabs.setup``` in MATLAB to start the installation process.
+3. After installing the add-on, type ```QLabs.launch``` to open up QLabs.
 
 ## QLabs
 This will be the virtual enviornment used for simulating your car.
