@@ -98,7 +98,7 @@ Follow the below instructions to make sure everything is set up correctly and le
 
 1. Using MATLAB navigate to the `/student-competition-resources-matlab/Virtual_MATLAB_Resources/self_driving_stack_resources` (make sure you double -click on folders and don't expand them)
 
-2. Open QLabs and navigate to `Self-Driving Car Studio` => `Plane`
+2. Open QLabs ("Quanser Interactive Labs") and navigate to `Self-Driving Car Studio` => `Plane`
 
     ![qlabs plane](../Pictures/plane_world_qlabs.png)
 
