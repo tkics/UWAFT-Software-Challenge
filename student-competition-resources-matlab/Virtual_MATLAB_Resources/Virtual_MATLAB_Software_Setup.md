@@ -65,13 +65,13 @@ WARNING: Ensure you do not already have QUARC or Quanser Interactive Labs instal
     git clone https://github.com/quanser/Quanser_Academic_Resources.git Quanser
     ```
     ```bash
-    git clone https://github.com/quanser/student-competition-resources-matlab.git
+    git clone https://github.com/tkics/UWAFT-Software-Challenge.git
     ```
 
-2. Run the following batch file with the following guidelines:
+2. Run the following batch file to ensure you have installed everything correctly:
 
-    - You are using MATLAB only
-    - You are using both virtual and hardware
+    - You are using MATLAB Virtual
+    - Ignore any GitHub pages it opens up
 
     `C:\Users\<username>\Documents\Quanser\1_setup\step_1_check_requirements.bat`
 
@@ -83,9 +83,9 @@ WARNING: Ensure you do not already have QUARC or Quanser Interactive Labs instal
 
 Follow the below instructions to make sure everything is set up correctly and learn how to use the provided resources:
 
-1. Using MATLAB navigate to the `/student-competition-resources-matlab/Virtual_MATLAB_Resources/self_driving_stack_resources` (make sure you double -click on folders and don't expand them)
+1. Using MATLAB navigate to the `UWAFT-Software-Challenge/student-competition-resources-matlab/Virtual_MATLAB_Resources/self_driving_stack_resources` (make sure you double -click on folders and don't expand them)
 
-2. Open QLabs ("Quanser Interactive Labs") and navigate to `Self-Driving Car Studio` => `Plane`
+2. Open QLabs by searching "Quanser Interactive Labs" on ur windows bar and navigate to `Self-Driving Car Studio` => `Plane`
 
     ![qlabs plane](../Pictures/plane_world_qlabs.png)
 
