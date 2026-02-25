@@ -55,8 +55,6 @@ WARNING: Ensure you do not already have QUARC or Quanser Interactive Labs instal
 
     - Use the license file (.qlic) you downloaded in Step 1 along with the guide
 
-4. Register for QLabs on the [Quanser Academic Portal](https://portal.quanser.com/Accounts/Register)
-
 ## Setting Up the MATLAB Competition Resources
 
 **First**, the Quanser Academic Resources will be installed:
