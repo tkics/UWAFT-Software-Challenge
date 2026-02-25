@@ -1,9 +1,9 @@
 ## The Challenge
-In this Hackathon you will be playing the role of an autonmous taxi service. Your goal is to pick up a passenger and drop them off at a specified location. You will be working off of a file that has some basic logic built into it, following the guide in XX. You may choose one of the specified paths shown below to complete the task based on the level of difficulty you are willing to take on. The car must fully function under criteria outlined below to gain the additional points.
+In this Hackathon you will be playing the role of an autonmous taxi service. Your goal is to pick up a passenger and drop them off at a specified location. You will be working off of a file that has some basic logic built into it, following the guide in [Virtual MATLAB Software Setup](student-competition-resources-matlab/Virtual_MATLAB_Resources/Virtual_MATLAB_Software_Setup.md). You may choose one of the specified paths shown below to complete the task based on the level of difficulty you are willing to take on. The car must fully function under criteria outlined below to gain the additional points.
 
 <img src="../images/map.png" width="500">
 
-Level 1 (+2 Points): The provided file you will be working off of comes with a predefined path that allows the car to drive around the outer track. To complete level 1, you **do not have to obey traffic signals**. Just stop within a radius of **X** at the coordinates provided for **3 seconds** for this level to be completed.
+Level 1 (+2 Points): The provided file you will be working off of comes with a predefined path that allows the car to drive around the outer track. To complete level 1, you **do not have to obey traffic signals**. Just stop within a radius of your choosing at the coordinates provided for **3 seconds** for this level to be completed.
 
 Level 2 (+6 points): You will have to define a new path for the car shown in blue while also using object detection to obey traffic signals including the stop sign and traffic light.
 
