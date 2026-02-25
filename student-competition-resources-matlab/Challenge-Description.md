@@ -1,7 +1,3 @@
-# Welcome to the Quanser MATLAB Competition Resources
-
-This repo contains all the resources available for the Quanser MATLAB-based competitions!
-
 ## The Challenge
 In this Hackathon you will be playing the role of an autonmous taxi service. Your goal is to pick up a passenger and drop them off at a specified location. You will be working off of a file that has some basic logic built into it, following the guide in XX. You may choose one of the specified paths shown below to complete the task based on the level of difficulty you are willing to take on. The car must fully function under criteria outlined below to gain the additional points.
 
