@@ -58,8 +58,15 @@ WARNING: Ensure you do not already have QUARC or Quanser Interactive Labs instal
 ## Setting Up the MATLAB Competition Resources
 
 **First**, the Quanser Academic Resources will be installed:
-
-1. Follow the instructions here to download the Quanser Academic Resources: [Quanser Academic Resources Download](https://github.com/quanser/Quanser_Academic_Resources?tab=readme-ov-file#downloading-resources)
+1. Install [Git](https://git-scm.com/downloads) in your system.
+2. Open your **Documents** folder and open a windows terminal in that folder.
+3. Run the following commands to create the Quanser directory and this UWAFT directory seperately.
+    ```
+    git clone https://github.com/quanser/Quanser_Academic_Resources.git Quanser
+    ```
+    ```bash
+    git clone https://github.com/quanser/student-competition-resources-matlab.git
+    ```
 
 2. Run the following batch file with the following guidelines:
 
@@ -71,22 +78,6 @@ WARNING: Ensure you do not already have QUARC or Quanser Interactive Labs instal
 3. Run the following batch file:
 
     `C:\Users\<username>\Documents\Quanser\1_setup\configure_matlab.bat`
-
-These resources will contain all the Quanser Resources for all of Quanser's products, but the [SDCS lab content](https://github.com/quanser/Quanser_Academic_Resources/blob/dev-windows/docs/start_labs.md#sdcs) will be the most relevant.
-
-**Second**, the Github repo containing the student competition resources for MATLAB will be downloaded:
-
-1. Navigate to your Documents folder within a File Explorer window
-
-2. Open a CMD Window in this directory by right-clicking in the blank space and selecting `Open in Terminal`
-
-    ![open_in_terminal](../Pictures/open_in_terminal.png)
-
-3. Clone the following Github Repo into the Documents folder using the following command:
-
-    ```bash
-    git clone https://github.com/quanser/student-competition-resources-matlab.git
-    ```
 
 ## Running the Self-Driving Stack Resources
 
