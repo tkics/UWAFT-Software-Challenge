@@ -17,7 +17,7 @@ This document will cover the following:
 
 `Installation Time:` It will take around **2 hours** to install everything
 
-`Storage:`: Installing everything will consume around **35GB of storage**
+`Storage:`: Installing everything will consume around **45GB of storage**
 
 `OS:` Windows 10 or 11
 
